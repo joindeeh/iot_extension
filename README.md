@@ -1,4 +1,4 @@
-![banner](.images/extension_image)
+![banner](.images/extension_image.jpg)
 
 # CyberPi IoT Extension
 
