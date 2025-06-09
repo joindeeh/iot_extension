@@ -14,12 +14,15 @@ Since this is an mBlock5 extension, please install the software first. Alternati
 use the [Web IDE](https://ide.mblock.cc)
 
 ![banner](.images/step_1.jpg)
+
 1. Go to the extension section of mBlock 5.
 
 ![banner](.images/step_2.jpg)
+
 2. Browse down until you see the extension from JEH Corp.
 
 ![banner](.images/step_3.jpg)
+
 3. Click the add button to add the extension to the canvas.
 
 # Block Description
